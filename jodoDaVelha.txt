@@ -1,17 +1,17 @@
-Pessoa 1 com pessoa 2
-    |   | 
+TD com A
+    | X  | 
 ---------------
     |   |
 ---------------
     |   | 
-Pessoa 1 com pessoa 3
+TD com K
        |   | 
 ---------------
-    |   |
+    |  X |
 ---------------
     |   |
  
-pessoa 2 com pessoa 3
+A com K
  
     |   | 
 ---------------
